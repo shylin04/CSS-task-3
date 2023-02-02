@@ -1,0 +1,9 @@
+
+  img{
+    position: absolute;
+    right: 30px;
+    top:20%;
+    height: calc(20% - 100px);
+  
+  }
+  

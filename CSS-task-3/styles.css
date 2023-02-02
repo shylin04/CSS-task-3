@@ -1,0 +1,24 @@
+
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: absolute;
+    right: 10px;
+    
+    
+  }
+#first{
+   
+  position: absolute;
+  right:12%;
+  left:4%;
+  
+}
+#second{
+  position:absolute;
+  top:17%;
+  left:4%;
+
+}
